@@ -1,0 +1,16 @@
+# Foundry build and broadcast artifacts
+/out/
+/cache/
+/broadcast/
+/coverage/
+/lcov.info
+
+# npm dependencies and logs
+/node_modules/
+npm-debug.log*
+
+# Local configuration and OS files
+.env
+.env.*
+!.env.example
+.DS_Store
